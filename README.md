@@ -15,4 +15,6 @@ Notebooks beginning with 02 evaluate and plot bond edit distances from connectiv
 
 04_other_simi_metrics.ipynb computes and compares various molecular fingerprint based similarity metrics, using selected stemoamide synthesis routes.
 
+Further details are presented in the individual notebook, and Supporting Information of the manuscript.
+
 To run the notebooks presented here, create a conda environment with the appropriate package versions (the RDKit installation guide linked above has a walkthrough), then download this repository into a suitable location on the local machine.
